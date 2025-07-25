@@ -1,4 +1,4 @@
-# 🐱 ToxiCat
+# 🐱 ToxiCat - Work in progress
 
 **Is that safe for your cat?**  
 ToxiCat is a full-stack app that helps pet owners check if common household items/substances are toxic to cats.
